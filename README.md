@@ -1,0 +1,1 @@
+rabbit_mq_example_with_an_ordering_explanation
